@@ -2,7 +2,7 @@ def print_f(s):
 	print(s)
 
 
-print_f("Hola")
+print_f("Multiplicacion 2*3: ")
 
 def multiplicar(x,y):
 	return x*y
